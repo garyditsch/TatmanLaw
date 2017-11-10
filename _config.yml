@@ -2,7 +2,7 @@
 title: Tatman Law, PLLC
 email:
 description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/TatmanLaw/" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 
 twitter_username:
