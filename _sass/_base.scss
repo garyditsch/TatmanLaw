@@ -70,12 +70,12 @@ aside {
 // Navigation
 
 .navbar-default {
-    background-color: rgba(black, .5);
+    background-color: rgba(white, .8);
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
     @include transition-all;
     .navbar-header .navbar-brand {
-        color: $theme-primary;
+        color: rgba(black, 1.0);
         @include sans-serif-font;
         font-weight: 700;
         text-transform: uppercase;
@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/header.jpg');
+    background-image: url('../img/matt-main.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -185,7 +185,7 @@ header {
         min-height: 100%;
         .header-content {
             position: absolute;
-            top: 50%;
+            top: 85%;
             -webkit-transform: translateY(-50%);
             -ms-transform: translateY(-50%);
             transform: translateY(-50%);
