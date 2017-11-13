@@ -155,7 +155,7 @@ header {
     min-height: auto;
     @include background-cover;
     background-position: center;
-    background-image: url('../img/matt-main.jpg');
+    background-image: url('../img/OldTimeBooks60.jpg');
     text-align: center;
     color: white;
     .header-content {
@@ -185,7 +185,7 @@ header {
         min-height: 100%;
         .header-content {
             position: absolute;
-            top: 85%;
+            top: 50%;
             -webkit-transform: translateY(-50%);
             -ms-transform: translateY(-50%);
             transform: translateY(-50%);
