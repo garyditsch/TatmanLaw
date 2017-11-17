@@ -63,6 +63,15 @@ aside {
     padding: 50px 0;
 }
 
+footer {
+    padding: 10px 0;
+    background-color: black;
+    color: white;
+    border-top-color: rgba($theme-primary, 1.0);
+    border-top-style: solid;
+    border-top-width: 2px;
+}
+
 .no-padding {
     padding: 0;
 }
